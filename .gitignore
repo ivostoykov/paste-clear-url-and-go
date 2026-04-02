@@ -1,0 +1,12 @@
+# Dirs
+
+.aimem/
+.aimem-spec/
+.claude/
+.issues/
+
+# Files
+
+AGENTS.md
+CLAUDE.md
+.codex
